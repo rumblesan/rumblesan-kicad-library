@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# EurorackJackMono
+#
+DEF EurorackJackMono U 0 40 Y Y 1 F N
+F0 "U" -50 400 50 H V C CNN
+F1 "EurorackJackMono" -50 400 50 H V C CNN
+F2 "" -50 400 50 H I C CNN
+F3 "" -50 400 50 H I C CNN
+DRAW
+P 2 0 1 0 -100 -100 50 -100 N
+P 2 0 1 0 0 100 50 100 N
+P 2 0 1 0 30 0 50 0 N
+P 2 0 1 0 30 100 20 70 N
+P 2 0 1 0 30 100 30 0 N
+P 2 0 1 0 30 100 40 70 N
+P 3 0 1 0 -60 70 -40 50 0 100 N
+P 5 0 1 0 -150 100 -150 -100 -100 -100 -100 100 -150 100 F
+X P1 1 150 -100 100 L 50 50 1 1 P
+X P2 2 150 0 100 L 50 50 1 1 P
+X P3 3 150 100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

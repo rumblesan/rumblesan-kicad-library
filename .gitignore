@@ -26,3 +26,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# svg 2 shenzen files
+.svg2shenzhen-cache
