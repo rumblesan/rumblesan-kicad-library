@@ -1,11 +1,6 @@
-# KiCAD Library
+# KiCAD Libraries
 
-A library for the KiCAD parts that I use
-
-
-## Description
-
-
+The libraries of KiCAD symbols and footprints that I use.
 
 
 ## Contact
@@ -16,4 +11,3 @@ Drop me an email at guy@rumblesan.com
 ## License
 
 BSD License.
-
